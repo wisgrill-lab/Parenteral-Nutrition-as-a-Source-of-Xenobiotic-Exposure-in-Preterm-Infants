@@ -1,4 +1,17 @@
-Parenteral Infusion - Xenobiotic analysis
+Code repository for the publication "Parenteral Nutrition as a Source of Xenobiotic Exposure in Preterm Infants in a Single-Center Case Study"
+================
+<p><b>Analysis: Michael Eigenschink MD</b></p>
+2026-10
+
+
+<p><i>Medical University of Vienna</i></p>
+
+<p>
+  Michael Eigenschink<sup>1</sup>, Lukas Wisgrill<sup>1</sup><br></p>
+
+  <p>
+  <sup>1</sup>Division of Neonatology, Pediatric Intensive Care & Neuropaediatrics, Department of Pediatrics and Adolescent Medicine, Comprehensive Center for Pediatrics, Medical University of Vienna, Austria </p>
+
 ================
 Michael Eigenschink
 2026-10-16
